@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>http://zapplelove.github.io/categories/index.html</loc>
+    <loc>http://zapplelove.github.io/books/index.html</loc>
     
     <lastmod>2020-11-20</lastmod>
     
@@ -37,14 +37,7 @@
   </url>
   
   <url>
-    <loc>http://zapplelove.github.io/books/index.html</loc>
-    
-    <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zapplelove.github.io/tags/index.html</loc>
+    <loc>http://zapplelove.github.io/categories/index.html</loc>
     
     <lastmod>2020-11-20</lastmod>
     
@@ -52,6 +45,13 @@
   
   <url>
     <loc>http://zapplelove.github.io/repository/index.html</loc>
+    
+    <lastmod>2020-11-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zapplelove.github.io/tags/index.html</loc>
     
     <lastmod>2020-11-20</lastmod>
     
