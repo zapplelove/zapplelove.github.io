@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://zapplelove.github.io/books/index.html</loc>
-    
-    <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://zapplelove.github.io/links/index.html</loc>
+    <loc>http://zapplelove.github.io/2020/11/20/hello-world/</loc>
     
     <lastmod>2020-11-20</lastmod>
     
@@ -30,6 +23,13 @@
   </url>
   
   <url>
+    <loc>http://zapplelove.github.io/books/index.html</loc>
+    
+    <lastmod>2020-11-20</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zapplelove.github.io/categories/index.html</loc>
     
     <lastmod>2020-11-20</lastmod>
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://zapplelove.github.io/tags/index.html</loc>
+    <loc>http://zapplelove.github.io/links/index.html</loc>
     
     <lastmod>2020-11-20</lastmod>
     
@@ -51,9 +51,9 @@
   </url>
   
   <url>
-    <loc>http://zapplelove.github.io/2020/11/19/hello-world/</loc>
+    <loc>http://zapplelove.github.io/tags/index.html</loc>
     
-    <lastmod>2020-11-19</lastmod>
+    <lastmod>2020-11-20</lastmod>
     
   </url>
   
